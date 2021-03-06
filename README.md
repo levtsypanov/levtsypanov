@@ -1,6 +1,6 @@
 ```js
 let skills = {
-  language : [Javascript, Typescript, Go, Python, PHP],
+  language : [JavaScript, TypeScript, Go, Python, PHP, Java],
   JSFramework : [React, React Native, Vue, Next],
   layout: {
     markup: [HTML, XML],
@@ -8,7 +8,7 @@ let skills = {
   },
   stateManagement: [Redux],
   tests: [Jest, Enzyme, mocha],
-  graphicsEditor: [Photoshop, Figma, XD],
+  graphicsEditor: [Photoshop, Figma, XD, Sketch],
   tools : [Git, Bash, Webpack, Gulp, VS Code, Docker],
 }
 ```
