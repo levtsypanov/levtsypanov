@@ -1,7 +1,7 @@
 ```js
 let skills = {
   language : [JavaScript, TypeScript, Go, Python, PHP, Java, C#],
-  JSFramework : [React, React Native, Vue, Next],
+  JSFramework : [React, React Native, Electron, Vue, Next],
   layout: {
     markup: [HTML, XML],
     styling: [CSS, SASS, LESS],
