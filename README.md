@@ -1,6 +1,6 @@
 ```js
 let skills = {
-  language : [JavaScript, TypeScript, Go, Python, PHH],
+  language : [JavaScript, TypeScript, Go, Python, PHP],
   JSFramework : [React, React Native, Next],
   layout: {
     markup: [HTML, XML],
